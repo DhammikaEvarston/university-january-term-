@@ -1,7 +1,3 @@
-
-Below is the detailed Student Record Management System in Java, including code, explanations, and a sample documentation in accordance with the requirements. The code addresses the tasks of adding new students, updating student information, and viewing student details, while also implementing error handling and proper user interaction. Additionally, I'll provide a basic structure of documentation, including instructions for running the program and interacting with the administrator interface.
-
-
 Student Record Management System in Java
 
 
